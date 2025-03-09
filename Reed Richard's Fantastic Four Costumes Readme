@@ -5,7 +5,3 @@ the encryption and find his designs, to help with the production of the team's u
 
 Difficulty: Medium
 
-How to get the Flag: To retrieve the flag use exiftool with:
-C:\Users\student\exiftool\exiftool.exe "C:\Users\student\FantasticCostumes\challenge.jpg"
-This will give the metadata and they will be able to find the flag in the comments.
-
