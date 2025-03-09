@@ -1,0 +1,13 @@
+Description: This image contains the Fantastic Four, their allies, and various foes. The Fantatic Four's ally 
+H.E.R.B.I.E. got some intel that these two villians are planning an attack on New York City tomorrow. 
+Can you help the team extract the hidden text in the images that says which two villians are planning the attack?
+
+Difficulty: Medium
+
+How to get the Flag: Open OpenStego from files (openstego-0.6.8 folder, then openstego batch file). 
+Click the extract data button. Click the three little dots to input the Fantastic Four Foes.png file 
+(located in folder Downloads / text steno / finishedPictures). Click the three little dots to choose 
+the output file location (ex folder Downloads / extracted.txt). Click the Extract data button, then 
+a message should be shown saying it was successful. Check extracted data by going to the location 
+where you saved the extracted file and open it (ex extracted.txt). You should now be able to see the flag.
+
