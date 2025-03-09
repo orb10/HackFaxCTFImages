@@ -1,0 +1,11 @@
+Description: Reed's trying out creating super suits for the rest of the team to make sure they allow 
+all members to be able to use their powers. His designs are encrypted for the team's safety to make 
+sure the suit designs are not used against them. It's your job as Reed's assistant to crack through 
+the encryption and find his designs, to help with the production of the team's uniforms. 
+
+Difficulty: Medium
+
+How to get the Flag: To retrieve the flag use exiftool with:
+C:\Users\student\exiftool\exiftool.exe "C:\Users\student\FantasticCostumes\challenge.jpg"
+This will give the metadata and they will be able to find the flag in the comments.
+
